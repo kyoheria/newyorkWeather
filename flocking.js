@@ -114,7 +114,6 @@ Boid.prototype.render = function() {
   //two = mouseX + mouseY;
   //two = map(two, 0,2000, 0,255);
   fill(one,0,three);
-  fill(dark);
   //a=map(30, 0,50,50,255);
   //z=map(30, 0,50,50,255);
   //fill(a,50,z)
